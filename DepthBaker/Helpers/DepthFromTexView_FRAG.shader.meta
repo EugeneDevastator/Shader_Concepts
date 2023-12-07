@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fee1741083d4ff74bbd471c676a13d7c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _DepthPerAngleGridmap: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
